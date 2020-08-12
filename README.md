@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=hacknug&show_icons=true&count_private=true&title_color=50fa7b&text_color=f8f8f2&icon_color=6272a4&bg_color=282a36)
+![](https://github-readme-stats.vercel.app/api?username=hacknug&show_icons=true&count_private=true&title_color=8AFF80&text_color=F8F8F2&icon_color=708CA9&bg_color=22212C)
